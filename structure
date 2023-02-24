@@ -1,0 +1,36 @@
+e-journal/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│   └── ...
+├── includes/
+│   ├── db.php
+│   ├── functions.php
+│   ├── header.php
+│   ├── footer.php
+│   └── ...
+├── pages/
+│   ├── index.php
+│   ├── about.php
+│   ├── contact.php
+│   ├── login.php
+│   ├── register.php
+│   ├── profile.php
+│   ├── submit.php
+│   ├── review.php
+│   ├── edit.php
+│   ├── manage_articles.php
+│   ├── manage_reviews.php
+│   ├── manage_comments.php
+│   └── ...
+├── uploads/
+│   ├── articles/
+│   └── profile_pictures/
+│       ├── user1_profile.jpg
+│       ├── user2_profile.jpg
+│       └── ...
+├── .htaccess
+├── index.php
+├── config.php
+└── ...
